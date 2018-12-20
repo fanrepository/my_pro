@@ -1,0 +1,5 @@
+projectKey=com.whizen:Spring-Boot-Demo02
+serverUrl=http://sonar.whizen.com
+dashboardUrl=http://sonar.whizen.com/dashboard/index/com.whizen:Spring-Boot-Demo02
+ceTaskId=AWWKClIqtHzJRnxF0ail
+ceTaskUrl=http://sonar.whizen.com/api/ce/task?id=AWWKClIqtHzJRnxF0ail

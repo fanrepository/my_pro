@@ -1,0 +1,5 @@
+projectKey=fan:Test
+serverUrl=http://sonar.whizen.com
+dashboardUrl=http://sonar.whizen.com/dashboard/index/fan:Test
+ceTaskId=AWV_5ywEtHzJRnxF0ahm
+ceTaskUrl=http://sonar.whizen.com/api/ce/task?id=AWV_5ywEtHzJRnxF0ahm

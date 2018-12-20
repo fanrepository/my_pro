@@ -1,0 +1,6 @@
+com\whizen\Demo02Application.class
+com\whizen\entity\User.class
+com\whizen\service\Impl\UserServiceImpl.class
+com\whizen\mapper\UserMapper.class
+com\whizen\web\controller\UserController.class
+com\whizen\service\UserService.class
