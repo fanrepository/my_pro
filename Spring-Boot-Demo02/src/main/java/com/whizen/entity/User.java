@@ -1,5 +1,5 @@
 package com.whizen.entity;
-
+/*注释*/
 public class User {
 private Integer id ;
 	
