@@ -1,5 +1,0 @@
-
-touch
-vim
-i
-i
