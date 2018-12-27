@@ -1,5 +1,5 @@
 /*注释*/
-touch
+touch=测试值touch
 vim
 i
 i
